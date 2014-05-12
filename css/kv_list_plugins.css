@@ -1,0 +1,8 @@
+.plugInListWrapper {clear:both; width:95%; margin:0 auto;}
+.plugInListLine {clear:both;}
+.plugInListHeadline {font-weight:bold;}
+.plugInListHeadDescription {text-align:center;}
+.plugInListNumber, .plugInListName, .plugInListVersion, .plugInListAction {float:left; padding:0 10px;}
+.plugInListNumber {width:10%;}
+.plugInListName, .plugInListAction {width:25%;}
+.plugInListVersion {width:30%;}
