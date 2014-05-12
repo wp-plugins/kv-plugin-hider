@@ -7,7 +7,7 @@ Tested up to: 3.9
 
 == Description ==
 
-Generally all the plugins are apear  to your logged in users, if you want to hide a particular plugin to your users, just use this plugin to hide it from the plugins.php page. 
+Generally all the plug-ins are allowed to see your logged in users, If you want to hide a particular plugin From your users, Just use this plugin to hide it from the plugins.php page.  But it will work if you activated the plugin.
 
 **Features**
 
