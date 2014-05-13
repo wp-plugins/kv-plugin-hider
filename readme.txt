@@ -1,5 +1,5 @@
 ===  KV Plugin Hider ===
-Contributors: kvvaradha
+Contributor: kvvaradha
 Donate link: 
 Tags: hide plugins, plugin hider
 Requires at least: 3.1
