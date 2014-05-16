@@ -1,6 +1,6 @@
 ===  KV Plugin Hider ===
-Contributor: kvvaradha
-Donate link: 
+Contributors: kvvaradha
+Donate link: http://kvcodes.com
 Tags: hide plugins, plugin hider
 Requires at least: 3.1
 Tested up to: 3.9
@@ -8,6 +8,7 @@ Tested up to: 3.9
 == Description ==
 
 Generally all the plug-ins are allowed to see your logged in users, If you want to hide a particular plugin From your users, Just use this plugin to hide it from the plugins.php page.  But it will work if you activated the plugin.
+If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/2014/05/hide-plugins-users-wordpress/" target="blank" > Kvcodes.com </a> 
 
 **Features**
 
