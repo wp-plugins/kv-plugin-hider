@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: KV Plugin Hider 
- * Plugin URI: http://kvcodes.com/
+ * Plugin URI: http://wordpress.org/plugins/kv-plugin-hider/
  * Description: Generally all the plug-ins are allowed to see your logged in users, If you want to hide a particular plugin From your users, Just use this plugin to hide plugins from the plugins.php page.  But it will work if you activated the plugin.
  * Author: Kvvaradha
- * Author URI: http://kvcodes.com/
+ * Author URI: http://profiles.wordpress.org/kvvaradha
  * Version: 1.0
  */
 define('KV_PLUGIN_LIST_URL', plugin_dir_url( __FILE__ ));
