@@ -1,6 +1,6 @@
 ===  KV Plugin Hider ===
 Contributors: kvvaradha
-Donate link: http://kvcodes.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV Plugin Hider	
 Tags: hide plugins, plugin hider
 Requires at least: 3.1
 Tested up to: 3.9
